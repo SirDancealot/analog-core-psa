@@ -1,0 +1,25 @@
+"Id","Price","NumberOfTickets","Name","Description","ExperienceWorth","Visible"
+1,2,10,Az Filter Coffee,Used for filter coffee brewed with fresh ground coffee,80,1
+2,2,10,Az Espresso Based,"Used for specialities like espresso, cappuccino, caffe latte, cortado, americano and chai latte",150,0
+3,2,10,TEST Tea,Used for our large collection of organic tea,50,1
+4,2,10,TEST Syrup,Used for syrup,10,0
+5,2,10,TEST Cocoa,Used for our cocoa,120,0
+6,2,1,TEST One Black Coffee,Used for one cup of filter coffee,10,1
+7,2,10,TEST Fancy Drink,Test description,170,1
+8,0,10,Test Barista Filter Coffee,Used by Baristas for filter coffee brewed with fresh ground coffee,0,1
+9,12,45,TEST Hot Chocolate,Hot Chocolate,0,1
+10,200,1,Dirty Iced Matcha Latte,LuHa's curzed drink,0,1
+11,6,1,Test,My test,0,1
+12,0,10,Test,Tester,0,1
+13,10,1,Test,Test,0,1
+14,10,10,Testing,Tester,0,1
+15,0,10,Testtt,Tester,0,1
+16,0,10,Testing,Test,0,1
+17,7,7,Filter Coffee,Test,0,1
+18,0,10,Omids Kakao,Omids POGGers 🧑‍🦽,0,1
+19,0,1,Frederiks Martini,Alcohol is cool 🍸,0,1
+20,22,10,Test,New Coffee Type,0,0
+21,100,10,Lakse Kondi,Smager godt,0,0
+22,0,4,Omid tvang mig,Test,0,1
+23,12,1,ComboBox Test,Test,0,1
+24,10,1,Stor espresso,Imodsætningen til små,0,1

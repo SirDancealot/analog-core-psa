@@ -1,0 +1,14 @@
+"Id","ShortName","FullName","SortPriority"
+1,SWU,BSc Software Development,0
+2,GBI,BSc Global Business Informatics,0
+3,BDDIT,BSc Digital Design and Interactive Technologies,0
+13,KDDIT,MSc Digital Design and Interactive Technologies,1
+14,DIM,MSc Digital Innovation and Management,1
+15,E-BUSS,MSc E-Business,1
+16,GAMES/DT,MSc Games - Design and Theory,1
+17,GAMES/Tech,MSc Games - Technology,1
+18,CS,MSc Computer Science,1
+19,SDT/Design,MSc Software Development (Design),1
+20,Employee,Employee,2
+21,Other,Other,3
+22,DS,BSc Data Science,0
