@@ -75,14 +75,14 @@ namespace CoffeeCard.WebApi
                 .Get<DatabaseSettings>();
             services.AddDbContext<CoffeeCardContext>(opt =>
                 opt.UseInMemoryDatabase("inmem")
-               // opt.UseSqlServer(
-                //     databaseSettings.ConnectionString,
-                //     c =>
-                //         c.MigrationsHistoryTable(
-                //             "__EFMigrationsHistory",
-                //             databaseSettings.SchemaName
-                //         )
-                // )
+            // opt.UseSqlServer(
+            //     databaseSettings.ConnectionString,
+            //     c =>
+            //         c.MigrationsHistoryTable(
+            //             "__EFMigrationsHistory",
+            //             databaseSettings.SchemaName
+            //         )
+            // )
             );
 
             // Setup cache
