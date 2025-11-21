@@ -124,6 +124,10 @@ namespace CoffeeCard.WebApi
             {
                 context.Database.Migrate();
             }
+            else
+            {
+                context.Database.EnsureCreated();
+            }
 
             var isMobilePayWebhookRegistrationManagementEnabled =
                 await featureManager.IsEnabledAsync(
