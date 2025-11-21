@@ -1,3 +1,4 @@
+using System.Runtime.InteropServices;
 using CoffeeCard.Models.DataTransferObjects.v2.User;
 
 namespace CoffeeCard.Models.Entities
@@ -40,6 +41,18 @@ namespace CoffeeCard.Models.Entities
                 UserGroup.Board => UserRole.Board,
                 UserGroup.Manager => UserRole.Manager,
                 _ => UserRole.Customer,
+            };
+        }
+
+        public static UserGroup fromInt(int n)
+        {
+            return n switch
+            {
+                0 => UserGroup.Customer,
+                1 => UserGroup.Barista,
+                2 => UserGroup.Board,
+                3 => UserGroup.Manager,
+                _ => UserGroup.Customer,
             };
         }
     }

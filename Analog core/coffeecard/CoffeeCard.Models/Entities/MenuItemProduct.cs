@@ -13,7 +13,7 @@
         /// <summary>
         /// Menu Item
         /// </summary>
-        public required MenuItem MenuItem { get; set; }
+        public MenuItem MenuItem { get; set; }
 
         /// <summary>
         /// Product Id
@@ -23,6 +23,6 @@
         /// <summary>
         /// Product
         /// </summary>
-        public required Product Product { get; set; }
+        public Product Product { get; set; }
     }
 }

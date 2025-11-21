@@ -18,6 +18,6 @@ namespace CoffeeCard.Models.Entities
         /// <summary>
         /// Ticket has been refunded
         /// </summary>
-        Refunded = 2,
+        Refunded = 2
     }
 }
